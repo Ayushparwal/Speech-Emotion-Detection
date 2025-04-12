@@ -348,7 +348,7 @@ else:
 # Save feedback on button click
 if st.button("Submit Feedback"):
     timestamp = time.strftime("%Y%m%d-%H%M%S")
-    file_name = f"{feedback_folder}/feedback_{timestamp}.txt"
+    file_name = f"{feedback_folder}/logs_{timestamp}.txt"
 
     # If feedback is "Yes", use predicted emotion, otherwise, use the user input (or "Not Provided" if empty)
     final_correct_emotion = predicted_label if feedback == "Yes" else correct_emotion or "Not Provided"

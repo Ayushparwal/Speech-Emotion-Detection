@@ -1,0 +1,6 @@
+
+    Predicted Emotion: Fearful
+    Confidence Score: 0.92
+    Correct Emotion: surpised.
+    Feedback: please correct it.
+    

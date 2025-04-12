@@ -1,0 +1,6 @@
+
+    Predicted Emotion: Fearful
+    Confidence Score: 0.94
+    Correct Emotion: happy
+    Feedback: please correct it from next time.
+    
